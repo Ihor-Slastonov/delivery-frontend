@@ -4,7 +4,7 @@ import { ImCheckmark } from 'react-icons/im';
 
 const ProductListItem = ({ product }) => {
   const [isAdd, setIsAdd] = useState(false);
-  const { name, imgUrl, price, shopId } = product;
+  const { name, imgUrl, price, } = product;
 
   const handleButtonClick = () => {
     toast.success('Product add to cart');
