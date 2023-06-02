@@ -12,6 +12,10 @@ const fetchShopsItemsById = async id => {
   return response.data;
 };
 
-const deliveryApi = { fetchAllShops, fetchShopsItemsById };
+const createNewOrder = async order => {
+  const response = await axios.post(`${BASE_URL}/orders/`, order);
+  return response.data;
+};
+const deliveryApi = { fetchAllShops, fetchShopsItemsById, createNewOrder };
 
 export default deliveryApi;
