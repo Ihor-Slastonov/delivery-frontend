@@ -4,6 +4,12 @@
 @tailwind components;
 @tailwind utilities;
 
+@layer components {
+  .container {
+    @apply max-w-7xl mx-auto px-4;
+  }
+}
+
 body {
   margin: 0;
   font-family: 'Kanit', 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell',
