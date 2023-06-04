@@ -12,6 +12,7 @@ Soon there will be:
 - Calculate the approximate time of delivery of the goods.
 - Get coupons for discounts when ordering.
 - View order history and the ability to repeat the order in one click!
+- Tablet and mobile versions
 
 ## Live page
 This project is automatically deployed to https://www.netlify.com/ when changes are made to the GitHub repository
