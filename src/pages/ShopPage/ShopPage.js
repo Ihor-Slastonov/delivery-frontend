@@ -18,7 +18,6 @@ const ShopPage = () => {
     const fetchShops = async () => {
       try {
         setIsLoading(true);
-        toast('Loading');
         const { result } = await deliveryApi.fetchAllShops();
         setShops(result);
       } catch (error) {
