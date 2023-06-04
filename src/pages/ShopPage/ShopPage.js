@@ -31,7 +31,7 @@ const ShopPage = () => {
 
     const checkCart = () => {
       try {
-        const cart = localStorageCartApi.currentCart();
+        const cart = localStorageCartApi.currentCart() || [];
         if (cart.length === 0) {
           return;
         }

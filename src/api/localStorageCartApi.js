@@ -1,6 +1,13 @@
 const LOCAL_CART_KEY = 'currentCart';
 
-const currentCart = () => JSON.parse(localStorage.getItem(LOCAL_CART_KEY));
+const currentCart = () => {
+  const cart = JSON.parse(localStorage.getItem(LOCAL_CART_KEY));
+  if (!cart) {
+    localStorage.setItem(LOCAL_CART_KEY, JSON.stringify([]));
+    return;
+  }
+  return cart;
+};
 
 const addToCart = cartItem => {
   let localCart = currentCart() || [];

@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "6471ef2cf34ebb6643bcf25f"
+  },
+  "name": "Burger - Donnelly",
+  "logo": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/645.jpg",
+  "address": "9657 Mandy Valley"
+},{
+  "_id": {
+    "$oid": "6471ef2cf34ebb6643bcf260"
+  },
+  "name": "Aufderhar's Pizza",
+  "logo": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/834.jpg",
+  "address": "87562 Harris Junction"
+},{
+  "_id": {
+    "$oid": "6471ef2cf34ebb6643bcf261"
+  },
+  "name": "Reitchett Shawarma",
+  "logo": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/595.jpg",
+  "address": "39584 Fisher Rapid"
+},{
+  "_id": {
+    "$oid": "6471ef2cf34ebb6643bcf263"
+  },
+  "name": "Gala & Company",
+  "logo": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1183.jpg",
+  "address": "14165 Lavada Groves"
+},{
+  "_id": {
+    "$oid": "6471ef2cf34ebb6643bcf262"
+  },
+  "name": "Thiel - Rice",
+  "logo": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/184.jpg",
+  "address": "7006 Stephan Pass"
+}]

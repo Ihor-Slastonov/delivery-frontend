@@ -1,0 +1,241 @@
+[{
+  "_id": {
+    "$oid": "64722e6ed1fbed3ec10fabb3"
+  },
+  "name": "Burger",
+  "imgUrl": "https://i.ibb.co/821JqQz/wallpaperbetter-com-1920x1200.jpg",
+  "price": "7",
+  "shopId": "6471ef2cf34ebb6643bcf25f"
+},{
+  "_id": {
+    "$oid": "64722e6ed1fbed3ec10fabb1"
+  },
+  "name": "Burger",
+  "imgUrl": "https://i.ibb.co/821JqQz/wallpaperbetter-com-1920x1200.jpg",
+  "price": "7",
+  "shopId": "6471ef2cf34ebb6643bcf25f"
+},{
+  "_id": {
+    "$oid": "64722e6ed1fbed3ec10fabb0"
+  },
+  "name": "Burger",
+  "imgUrl": "https://i.ibb.co/821JqQz/wallpaperbetter-com-1920x1200.jpg",
+  "price": "7",
+  "shopId": "6471ef2cf34ebb6643bcf25f"
+},{
+  "_id": {
+    "$oid": "64722e6ed1fbed3ec10fabb4"
+  },
+  "name": "Burger",
+  "imgUrl": "https://i.ibb.co/821JqQz/wallpaperbetter-com-1920x1200.jpg",
+  "price": "7",
+  "shopId": "6471ef2cf34ebb6643bcf25f"
+},{
+  "_id": {
+    "$oid": "64722e6ed1fbed3ec10fabb5"
+  },
+  "name": "Burger",
+  "imgUrl": "https://i.ibb.co/821JqQz/wallpaperbetter-com-1920x1200.jpg",
+  "price": "7",
+  "shopId": "6471ef2cf34ebb6643bcf25f"
+},{
+  "_id": {
+    "$oid": "64722e6ed1fbed3ec10fabb2"
+  },
+  "name": "Burger",
+  "imgUrl": "https://i.ibb.co/821JqQz/wallpaperbetter-com-1920x1200.jpg",
+  "price": "7",
+  "shopId": "6471ef2cf34ebb6643bcf25f"
+},{
+  "_id": {
+    "$oid": "6475a784ef86dfaa77b112cf"
+  },
+  "name": "Pizza",
+  "imgUrl": "https://i.ibb.co/DL03WZK/wallpaperbetter-com-1920x1200-1.jpg",
+  "price": "11.50",
+  "shopId": "6471ef2cf34ebb6643bcf260"
+},{
+  "_id": {
+    "$oid": "6475a784ef86dfaa77b112d0"
+  },
+  "name": "Pizza",
+  "imgUrl": "https://i.ibb.co/DL03WZK/wallpaperbetter-com-1920x1200-1.jpg",
+  "price": "11.50",
+  "shopId": "6471ef2cf34ebb6643bcf260"
+},{
+  "_id": {
+    "$oid": "6475a784ef86dfaa77b112d1"
+  },
+  "name": "Pizza",
+  "imgUrl": "https://i.ibb.co/DL03WZK/wallpaperbetter-com-1920x1200-1.jpg",
+  "price": "11.50",
+  "shopId": "6471ef2cf34ebb6643bcf260"
+},{
+  "_id": {
+    "$oid": "6475a784ef86dfaa77b112d2"
+  },
+  "name": "Pizza",
+  "imgUrl": "https://i.ibb.co/DL03WZK/wallpaperbetter-com-1920x1200-1.jpg",
+  "price": "11.50",
+  "shopId": "6471ef2cf34ebb6643bcf260"
+},{
+  "_id": {
+    "$oid": "6475a784ef86dfaa77b112d3"
+  },
+  "name": "Pizza",
+  "imgUrl": "https://i.ibb.co/DL03WZK/wallpaperbetter-com-1920x1200-1.jpg",
+  "price": "11.50",
+  "shopId": "6471ef2cf34ebb6643bcf260"
+},{
+  "_id": {
+    "$oid": "6475a784ef86dfaa77b112d4"
+  },
+  "name": "Pizza",
+  "imgUrl": "https://i.ibb.co/DL03WZK/wallpaperbetter-com-1920x1200-1.jpg",
+  "price": "11.50",
+  "shopId": "6471ef2cf34ebb6643bcf260"
+},{
+  "_id": {
+    "$oid": "647c61dcc821f8b8ba77ece0"
+  },
+  "name": "Shawarma Arabic",
+  "imgUrl": "https://i.ibb.co/NFXx8ZG/arabic-shaurma-with-stuffings-in-lavash.jpg",
+  "price": "11.50",
+  "shopId": "6471ef2cf34ebb6643bcf261"
+},{
+  "_id": {
+    "$oid": "647c61dcc821f8b8ba77ece1"
+  },
+  "name": "Shawarma Double Meat",
+  "imgUrl": "https://i.ibb.co/NFXx8ZG/arabic-shaurma-with-stuffings-in-lavash.jpg",
+  "price": "15.50",
+  "shopId": "6471ef2cf34ebb6643bcf261"
+},{
+  "_id": {
+    "$oid": "647c61dcc821f8b8ba77ece2"
+  },
+  "name": "Shawarma Light",
+  "imgUrl": "https://i.ibb.co/NFXx8ZG/arabic-shaurma-with-stuffings-in-lavash.jpg",
+  "price": "8.50",
+  "shopId": "6471ef2cf34ebb6643bcf261"
+},{
+  "_id": {
+    "$oid": "647c61dcc821f8b8ba77ece3"
+  },
+  "name": "Shawarma 4 Cheese",
+  "imgUrl": "https://i.ibb.co/NFXx8ZG/arabic-shaurma-with-stuffings-in-lavash.jpg",
+  "price": "13.50",
+  "shopId": "6471ef2cf34ebb6643bcf261"
+},{
+  "_id": {
+    "$oid": "647c61dcc821f8b8ba77ece4"
+  },
+  "name": "Shawarma Assorti ",
+  "imgUrl": "https://i.ibb.co/NFXx8ZG/arabic-shaurma-with-stuffings-in-lavash.jpg",
+  "price": "14",
+  "shopId": "6471ef2cf34ebb6643bcf261"
+},{
+  "_id": {
+    "$oid": "647c61dcc821f8b8ba77ece5"
+  },
+  "name": "Shawarma Mexican",
+  "imgUrl": "https://i.ibb.co/NFXx8ZG/arabic-shaurma-with-stuffings-in-lavash.jpg",
+  "price": "12.70",
+  "shopId": "6471ef2cf34ebb6643bcf261"
+},{
+  "_id": {
+    "$oid": "647c656bc821f8b8ba77ece8"
+  },
+  "name": "Ukrainian Borsch",
+  "imgUrl": "https://i.ibb.co/jTXQwdV/rabstol-net-soup-17.jpg",
+  "price": "7.50",
+  "shopId": "6471ef2cf34ebb6643bcf263"
+},{
+  "_id": {
+    "$oid": "647c656bc821f8b8ba77ece9"
+  },
+  "name": "Borsch Double Meat",
+  "imgUrl": "https://i.ibb.co/jTXQwdV/rabstol-net-soup-17.jpg",
+  "price": "15.50",
+  "shopId": "6471ef2cf34ebb6643bcf263"
+},{
+  "_id": {
+    "$oid": "647c656bc821f8b8ba77ecea"
+  },
+  "name": "Borsch For Two",
+  "imgUrl": "https://i.ibb.co/jTXQwdV/rabstol-net-soup-17.jpg",
+  "price": "12",
+  "shopId": "6471ef2cf34ebb6643bcf263"
+},{
+  "_id": {
+    "$oid": "647c656bc821f8b8ba77eceb"
+  },
+  "name": "Vareniki With Mushrooms",
+  "imgUrl": "https://i.ibb.co/JQ0hzS6/look-com-ua-140575.jpg",
+  "price": "13.50",
+  "shopId": "6471ef2cf34ebb6643bcf263"
+},{
+  "_id": {
+    "$oid": "647c656bc821f8b8ba77ecec"
+  },
+  "name": "Vareniki With Cabbage",
+  "imgUrl": "https://i.ibb.co/JQ0hzS6/look-com-ua-140575.jpg",
+  "price": "14",
+  "shopId": "6471ef2cf34ebb6643bcf263"
+},{
+  "_id": {
+    "$oid": "647c656bc821f8b8ba77eced"
+  },
+  "name": "Vareniki With Beef",
+  "imgUrl": "https://i.ibb.co/JQ0hzS6/look-com-ua-140575.jpg",
+  "price": "12.70",
+  "shopId": "6471ef2cf34ebb6643bcf263"
+},{
+  "_id": {
+    "$oid": "647c693ec821f8b8ba77ecf6"
+  },
+  "name": "Abi Roll",
+  "imgUrl": "https://i.ibb.co/f9nprC6/987034.jpg",
+  "price": "8",
+  "shopId": "6471ef2cf34ebb6643bcf262"
+},{
+  "_id": {
+    "$oid": "647c693ec821f8b8ba77ecf7"
+  },
+  "name": "The Dragon Without Rice",
+  "imgUrl": "https://i.ibb.co/f9nprC6/987034.jpg",
+  "price": "10",
+  "shopId": "6471ef2cf34ebb6643bcf262"
+},{
+  "_id": {
+    "$oid": "647c693ec821f8b8ba77ecf8"
+  },
+  "name": "Double Salmon Roll",
+  "imgUrl": "https://i.ibb.co/f9nprC6/987034.jpg",
+  "price": "11.50",
+  "shopId": "6471ef2cf34ebb6643bcf262"
+},{
+  "_id": {
+    "$oid": "647c693ec821f8b8ba77ecf9"
+  },
+  "name": "Green Dragon Roll",
+  "imgUrl": "https://i.ibb.co/f9nprC6/987034.jpg",
+  "price": "13",
+  "shopId": "6471ef2cf34ebb6643bcf262"
+},{
+  "_id": {
+    "$oid": "647c693ec821f8b8ba77ecfa"
+  },
+  "name": "Barbecue Roll",
+  "imgUrl": "https://i.ibb.co/f9nprC6/987034.jpg",
+  "price": "8.50",
+  "shopId": "6471ef2cf34ebb6643bcf262"
+},{
+  "_id": {
+    "$oid": "647c693ec821f8b8ba77ecfb"
+  },
+  "name": "Roll Kani Pankechi",
+  "imgUrl": "https://i.ibb.co/f9nprC6/987034.jpg",
+  "price": "7",
+  "shopId": "6471ef2cf34ebb6643bcf262"
+}]
