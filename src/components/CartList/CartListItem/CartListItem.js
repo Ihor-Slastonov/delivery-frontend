@@ -44,7 +44,7 @@ const CartListItem = ({ order, updateCartItem, removeCartItem }) => {
           className="flex items-center justify-center
            gap-2 mt-6 w-full p-1 
            border-2 rounded-md border-red-500
-            hover:text-red-500 transition-colors"
+            hover:text-red-500 transition-colors ease-in-out duration-300"
         >
           <ImCross color="tomato" size={16} />
           DELETE

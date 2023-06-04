@@ -1,8 +1,10 @@
 import React, { useEffect, useState } from 'react';
+import { toast } from 'react-hot-toast';
+
+import localStorageCartApi from '../../api/localStorageCartApi';
+
 import CartForm from '../../components/CartForm/CartForm';
 import CartList from '../../components/CartList/CartList';
-import { toast } from 'react-hot-toast';
-import localStorageCartApi from '../../api/localStorageCartApi';
 
 const CartPage = () => {
   const [order, setOrder] = useState([]);
@@ -53,7 +55,7 @@ const CartPage = () => {
       (sum, item) => sum + item.quantity * Number(item.price),
       0
     );
-
+    localStorageCartApi.removeItemById(itemId);
     setOrder(updatedOrder);
     setTotalOrderPrice(totalPrice);
   };
@@ -66,6 +68,7 @@ const CartPage = () => {
   return (
     <section className="py-10">
       <div className="container">
+        <h1 className="sr-only">Hurry up and place your order</h1>
         <div className="flex gap-10">
           <CartForm
             totalOrderPrice={totalOrderPrice}
