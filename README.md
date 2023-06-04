@@ -14,7 +14,7 @@ Soon there will be:
 - View order history and the ability to repeat the order in one click!
 
 ## Live page
-
+This project is automatically deployed to https://www.netlify.com/ when changes are made to the GitHub repository
 https://slastonov-delivery.netlify.app/
 
 ## Installation
