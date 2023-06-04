@@ -1,6 +1,6 @@
 # Jam's Delivery
 
-Hurry up and place your order and we'll deliver it for you!
+Hurry up! Place your order and we'll deliver it for you!
 
 This is a food delivery project. You can choose your favorite store from the
 list as well as its offers. Add products to your cart and place your order.
