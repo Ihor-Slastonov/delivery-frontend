@@ -1,4 +1,4 @@
-# Jam's Delivery
+# Jam's Delivery (Note that the first run can be long, since the backend is on a free render.com account)
 
 Hurry up! Place your order and we'll deliver it for you!
 
